@@ -2,7 +2,7 @@
 
 ## ![Icon] Hello!
 
-I am a game programmer specialized in audio programming and adaptive music. On this github you'll find projects built using my custom C++ Engine utilizing DX11, FMOD, and Wwise.
+I am a game programmer specialized in audio programming and adaptive music. On this github you'll find projects built using my custom C++ Engine, _Adagio_, utilizing DX11, FMOD, and Wwise. I'm also an accomplished music composer, with many of these projects featuring original music.
 
 [![RizuStage][RizuStageGif]][RizuStageLink]
 
